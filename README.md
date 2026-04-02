@@ -45,8 +45,8 @@ This analysis was structured as a **system-level evaluation**, not just a dashbo
 
 ### 1. Demand ≠ Revenue
 
-* **40K inquiries → 7K transactions**
-* High demand exists, but monetization is inefficient
+ **40K inquiries → 7K transactions**
+ High demand exists, but monetization is inefficient
 
 👉 The core issue is **conversion, not demand generation**
 
@@ -55,8 +55,8 @@ This analysis was structured as a **system-level evaluation**, not just a dashbo
 ### 2. Critical Funnel Leakage
 <img width="1917" height="842" alt="image" src="https://github.com/user-attachments/assets/8d20b89b-649b-42d9-924b-0678e71f51a9" />
 
-* **49%** conversion: Inquiries → Leads
-* **36%** conversion: Leads → Offers
+ **49%** conversion: Inquiries → Leads
+ **36%** conversion: Leads → Offers
 
 👉 The largest revenue loss occurs at the **early engagement stage**
 
@@ -65,8 +65,8 @@ This analysis was structured as a **system-level evaluation**, not just a dashbo
 ### 3. Operational Bottleneck
 <img width="602" height="173" alt="image" src="https://github.com/user-attachments/assets/f75ec297-ef1c-4ba2-891a-88107fe32619" />
 
-* **Average response time: 24 hours**
-* **Conversion rate declined by 9.6% YoY**
+ **Average response time: 24 hours**
+ **Conversion rate declined by 9.6% YoY**
 
 👉 Slow response times directly reduce deal closure probability
 
@@ -74,9 +74,9 @@ This analysis was structured as a **system-level evaluation**, not just a dashbo
 
 ### 4. Market Demand Misalignment
 <img width="1765" height="837" alt="image" src="https://github.com/user-attachments/assets/7a2476f0-0501-4754-b2bc-cb76d148b36a" />
-* Apartments dominate **rental demand**
-* Single-family homes dominate **sales demand**
-* Land has consistently **lowest demand**
+ Apartments dominate **rental demand**
+ Single-family homes dominate **sales demand**
+ Land has consistently **lowest demand**
 
 👉 Inventory strategy is not aligned with actual market behavior
 
@@ -85,17 +85,16 @@ This analysis was structured as a **system-level evaluation**, not just a dashbo
 ### 5. Geographic Opportunities
 <img width="1840" height="824" alt="image" src="https://github.com/user-attachments/assets/07980908-39b3-42a2-8e93-da277bc4cab1" />
 **High rental demand cities:**
-
-* Chicago
-* Austin
-* Phoenix
-* Denver
+ Chicago
+ Austin
+ Phoenix
+ Denver
 
 **Low rental demand cities:**
 
-* Atlanta
-* Houston
-* Charlotte
+ Atlanta
+ Houston
+ Charlotte
 
 👉 Requires **geo-specific commercial strategy**, not a one-size-fits-all approach
 
@@ -103,7 +102,7 @@ This analysis was structured as a **system-level evaluation**, not just a dashbo
 
 ### 6. Seasonal Trends
 <img width="1914" height="824" alt="image" src="https://github.com/user-attachments/assets/815753ff-44a2-4b64-9c4c-435228957477" />
-* **Q4 shows peak demand growth**
+ **Q4 shows peak demand growth**
 
 👉 Indicates opportunity for **targeted marketing and inventory positioning**
 
@@ -113,22 +112,22 @@ This analysis was structured as a **system-level evaluation**, not just a dashbo
 
 ### 🚀 1. Reduce Response Time
 
-* Target: **< 2 hours**
-* Expected impact: Increased lead-to-offer conversion
+ Target: **< 2 hours**
+ Expected impact: Increased lead-to-offer conversion
 
 ---
 
 ### 🔧 2. Fix Funnel Leakage
 
-* Improve lead qualification criteria
-* Implement structured follow-up workflows
+ Improve lead qualification criteria
+ Implement structured follow-up workflows
 
 ---
 
 ### 📦 3. Align Inventory with Demand
 
-* Increase apartment listings in rental-heavy markets
-* Reduce underperforming property types (e.g., land)
+ Increase apartment listings in rental-heavy markets
+ Reduce underperforming property types (e.g., land)
 
 ---
 
@@ -136,26 +135,26 @@ This analysis was structured as a **system-level evaluation**, not just a dashbo
 
 Focus rental strategy on high-demand cities:
 
-* Chicago
-* Austin
-* Phoenix
-* Denver
+ Chicago
+ Austin
+ Phoenix
+ Denver
 
 ---
 
 ### 📊 5. Seasonal Optimization
 
-* Increase marketing and listing activity in **Q4 peak periods**
+ Increase marketing and listing activity in **Q4 peak periods**
 
 ---
 
 ## 🧠 How I Think as an Analyst
 
-* Start with **decisions**, not data
-* Focus on **where value is lost**, not just where activity exists
-* Validate data before trusting insights
-* Prioritize **high-impact drivers over vanity metrics**
-* Always connect **insights → business actions → measurable outcomes**
+ Start with **decisions**, not data
+ Focus on **where value is lost**, not just where activity exists
+ Validate data before trusting insights
+ Prioritize **high-impact drivers over vanity metrics**
+ Always connect **insights → business actions → measurable outcomes**
 
 ---
 
@@ -163,9 +162,9 @@ Focus rental strategy on high-demand cities:
 
 This analysis enabled:
 
-* Clear identification of **revenue leakage points**
-* Improved alignment between **supply and demand**
-* Data-driven **market prioritization strategy**
-* Shift toward **efficiency-driven growth over volume-driven activity**
+ Clear identification of **revenue leakage points**
+ Improved alignment between **supply and demand**
+ Data-driven **market prioritization strategy**
+ Shift toward **efficiency-driven growth over volume-driven activity**
 
 ---
