@@ -1,7 +1,3 @@
-Here’s a polished, **GitHub-ready version** of your analytical README. It’s structured for recruiter impact, clarity, and senior-level storytelling while remaining clean and scannable.
-
----
-
 # 📊 Real Estate Sales & Rental Performance Analytics
 
 ## 📌 Overview
@@ -40,8 +36,8 @@ This analysis was structured as a **system-level evaluation**, not just a dashbo
 * **Operational Layer** → Response time, Days on Market (DOM)
 * **Market Layer** → City, Property Type, Transaction Type
 
-This layered approach ensures insights are **causal, not just descriptive**.
 
+**[🚀View technical process](https://github.com/Jay0494/Technical-section-.git)**
 ---
 
 ## 📈 Key Insights
