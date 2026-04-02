@@ -41,6 +41,7 @@ This analysis was structured as a **system-level evaluation**, not just a dashbo
 ---
 
 ## 📈 Key Insights
+<img width="1395" height="841" alt="image" src="https://github.com/user-attachments/assets/399613d0-2038-40a4-a601-91eb4fddb602" />
 
 ### 1. Demand ≠ Revenue
 
