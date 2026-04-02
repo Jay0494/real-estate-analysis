@@ -37,7 +37,7 @@ This analysis was structured as a **system-level evaluation**, not just a dashbo
 * **Market Layer** → City, Property Type, Transaction Type
 
 
-**[🚀View technical process](https://github.com/Jay0494/Technical-section-.git)**
+**[🚀click to View technical process](https://github.com/Jay0494/Technical-section-.git)**
 ---
 
 ## 📈 Key Insights
